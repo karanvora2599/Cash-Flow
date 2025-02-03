@@ -1,1 +1,4 @@
 Kaggle Personal Finance Dataset: https://www.kaggle.com/datasets/bukolafatunde/personal-finance
+
+CashFlow: https://www.kaggle.com/code/miguelfzzz/store-sales-prediction-analysis
+
